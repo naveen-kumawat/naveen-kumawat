@@ -27,7 +27,7 @@ A programmer and a AI learning enthusiast
 
 - Project lead 
 
-### Languages and tools :<img src="https://github.com/naveen-kumawat/Overview/blob/3ca3a6f7edb7c5143ddace29748c7fe7b49728fc/code.gif" width="39px">
+### Languages and tools : <img src="https://github.com/naveen-kumawat/Overview/blob/3ca3a6f7edb7c5143ddace29748c7fe7b49728fc/code.gif" width="15px">
 
 
 - Python

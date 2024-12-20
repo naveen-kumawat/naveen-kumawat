@@ -41,10 +41,11 @@ A programmer and a AI learning enthusiast
 
 ### Contact me
 <p align="left">
-  <a href="https://www.linkedin.com/in/naveen-kumawat-287473189" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Naveen Kumawat" height="60" width="45" fill="#0077b5"  /></a>
- &nbsp;&nbsp;
-
+  <a href="https://www.linkedin.com/in/naveen-kumawat-287473189" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Naveen Kumawat" height="60" width="45" style="filter: invert(31%) sepia(76%) saturate(473%) hue-rotate(185deg) brightness(94%) contrast(91%);" />
+  </a>
 </p>
+
 
 
 

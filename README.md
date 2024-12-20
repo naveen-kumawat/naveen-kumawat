@@ -41,12 +41,9 @@ A programmer and a AI learning enthusiast
 
 ### Contact me
 <p align="left">
-  <a href="https://www.linkedin.com/in/naveen-kumawat-287473189" target="_blank">
-    <svg xmlns="http://www.w3.org/2000/svg" height="60" width="45" viewBox="0 0 24 24" fill="#0077B5">
-      <path d="M0 1.3C0 .58.58 0 1.3 0h21.4c.72 0 1.3.58 1.3 1.3v21.4c0 .72-.58 1.3-1.3 1.3H1.3C.58 24 0 23.42 0 22.7V1.3zm13.8 16.57v-6.3c0-1.5-.5-2.5-1.7-2.5-1.5 0-2.4 1.0-2.4 2.6v6.3h-2.9V9.6h2.9v1.5c.5-.7 1.5-1.3 3-1.3 2.2 0 3.9 1.4 3.9 4.4v5.8h-3zM5.4 9.6h2.9v13.1H5.4V9.6zM7 7.5c-.9 0-1.6-.7-1.6-1.6 0-.9.7-1.6 1.6-1.6s1.6.7 1.6 1.6c0 .9-.7 1.6-1.6 1.6z"/>
-    </svg>
-  </a>
-  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/naveen-kumawat-287473189" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Naveen Kumawat" height="60" width="45" color  /></a>
+ &nbsp;&nbsp;
+
 </p>
 
 

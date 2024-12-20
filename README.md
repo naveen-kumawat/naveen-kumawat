@@ -41,7 +41,7 @@ A programmer and a AI learning enthusiast
 
 ### Contact me
 <p align="left">
-  <a href="https://www.linkedin.com/in/naveen-kumawat-287473189" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=8808&format=png&color=40C057" alt="Naveen Kumawat" height="60" width="45" color  /></a>
+  <a href="https://www.linkedin.com/in/naveen-kumawat-287473189" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=8808&format=png&color=40C057" alt="Naveen Kumawat" height="60" width="60" color  /></a>
  &nbsp;&nbsp;
 
 </p>

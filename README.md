@@ -1,324 +1,355 @@
+<!-- ████████████████████████████████████████████████████████████████ -->
+<!--                  NAVEEN KUMAWAT — README.md                    -->
+<!-- ████████████████████████████████████████████████████████████████ -->
+
 <div align="center">
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░  GLITCH HERO HEADER  ░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--              ANIMATED HERO BANNER          -->
+<!-- ╚══════════════════════════════════════════╝ -->
 
-<img src="https://svg-banners.vercel.app/api?type=glitch&text1=NAVEEN%20KUMAWAT&width=900&height=220&fontSize=80&fontFamily=Space+Mono" width="100%" alt="Naveen Kumawat"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0d0221,50:0a0a2e,100:0d0221&text=Naveen%20Kumawat&fontAlign=50&fontAlignY=45&fontSize=72&fontColor=ffffff&desc=AI%20Engineer%20·%20Python%20Developer%20·%20Problem%20Architect&descAlignY=68&descSize=16&descColor=7c6fcd&animation=fadeIn&stroke=7c6fcd&strokeWidth=1.5"/>
 
-<!-- ANIMATED ROLE TAGS -->
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=2800&pause=900&color=F8C843&background=00000000&center=true&vCenter=true&multiline=false&width=600&height=40&lines=%E2%96%B6+AI+%26+Machine+Learning+Engineer;%E2%96%B6+Python+Developer+%7C+Problem+Architect;%E2%96%B6+Data+Structures+%7C+Algorithm+Thinker;%E2%96%B6+Project+Lead+%7C+Coffee-Dependent+Human%E2%98%95" alt="Roles"/>
-</a>
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--            ANIMATED TYPING ROLES           -->
+<!-- ╚══════════════════════════════════════════╝ -->
 
 <br/>
 
-<!-- STATUS PILLS -->
-<img src="https://img.shields.io/badge/STATUS-BUILDING_THE_FUTURE-F8C843?style=for-the-badge&labelColor=0a0a0a&color=F8C843" />
-&nbsp;
-<img src="https://img.shields.io/badge/FOCUS-AI_%2F_ML-ffffff?style=for-the-badge&labelColor=0a0a0a" />
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=naveen-kumawat&style=for-the-badge&color=F8C843&labelColor=0a0a0a&label=VISITORS" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=7C6FCD&center=true&vCenter=true&random=false&width=600&height=56&lines=🚀+Building+Intelligent+Systems;🧠+Deep+Learning+%26+Machine+Learning;🐍+Python+%7C+DSA+%7C+Algorithms;☕+Fueled+by+Coffee%2C+Driven+by+Curiosity;💡+Turning+Data+into+Intelligence)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--              STATUS BADGES ROW             -->
+<!-- ╚══════════════════════════════════════════╝ -->
+
+[![Profile Views](https://komarev.com/ghpvc/?username=naveen-kumawat&style=for-the-badge&color=7c6fcd&labelColor=0d0221&label=PROFILE+VIEWS)](https://github.com/naveen-kumawat)
+[![GitHub Followers](https://img.shields.io/github/followers/naveen-kumawat?style=for-the-badge&logo=github&logoColor=white&color=7c6fcd&labelColor=0d0221&label=FOLLOWERS)](https://github.com/naveen-kumawat)
+[![Open Source](https://img.shields.io/badge/OPEN%20SOURCE-LOVER-7c6fcd?style=for-the-badge&labelColor=0d0221)](https://github.com/naveen-kumawat)
 
 </div>
 
 <br/>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED DIVIDER                           -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <br/>
 
----
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                       ABOUT ME SECTION                         -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░  ABOUT SECTION  ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-### `> whoami`
-
-<table width="100%" border="0">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
 <tr>
-<td width="52%" valign="top">
+<td width="55%" valign="middle">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=9999&color=7C6FCD&width=220&height=32&lines=About+Me+_" alt="About Me"/>
 
 ```python
+# naveen_kumawat.py
+
 class NaveenKumawat:
+    
+    name     = "Naveen Kumawat"
+    alias    = "naveen-kumawat"
+    location = "India 🇮🇳"
+    role     = "AI Engineer & Project Lead"
+    
+    stack    = {
+        "language" : ["Python", "C++", "JavaScript"],
+        "ai_ml"    : ["TensorFlow", "PyTorch", "Sklearn"],
+        "database" : ["MySQL"],
+        "frontend" : ["HTML", "CSS"],
+        "tools"    : ["PyCharm", "Git", "GitHub"],
+    }
+    
+    learning = ["DSA", "Advanced Algorithms", "AI/ML"]
+    open_to  = "Collaboration on AI / ML projects"
+    
+    fun_fact = """
+      ☕ I start working ONLY
+         when my coffee does!!
+    """
 
-    name       = "Naveen Kumawat"
-    role       = "AI Engineer · Project Lead"
-    location   = "India 🇮🇳"
-    email      = "nk75kumawat@gmail.com"
-
-    currently  = [
-        "Building with Python & AI",
-        "Mastering DSA",
-        "Leading development projects",
-    ]
-
-    principles = [
-        "Code with purpose",
-        "Automate the boring stuff",
-        "Learn → Build → Repeat",
-    ]
-
-    secret     = "git commit -m 'fix: add coffee'"
-```
-
-<br/>
-
-```bash
-$ uptime
-  ☕  Running on coffee since day one
-  🤖  AI models loaded: active
-  🚀  Status: shipping features
+if __name__ == "__main__":
+    dev = NaveenKumawat()
+    print("Building the future... 🚀")
 ```
 
 </td>
-<td width="4%"></td>
-<td width="44%" valign="top" align="center">
+<td width="45%" valign="middle" align="center">
+
+<img alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://github.com/naveen-kumawat/Overview/blob/39d09353dde9edfcd0a8536665e081e7079d8458/me.png" width="200" alt="Naveen Kumawat"/>
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED DIVIDER                           -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                     TECH STACK SECTION                         -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=9999&color=7C6FCD&center=true&width=260&height=32&lines=Tech+Stack+%26+Tools+_" alt="Tech Stack"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/💼_Role-Project_Lead-F8C843?style=flat-square&labelColor=111111"/>
-<br/>
-<img src="https://img.shields.io/badge/🔬_Domain-AI_%26_ML-ffffff?style=flat-square&labelColor=111111"/>
-<br/>
-<img src="https://img.shields.io/badge/📚_Learning-DSA_%26_Algorithms-F8C843?style=flat-square&labelColor=111111"/>
-<br/>
-<img src="https://img.shields.io/badge/⚡_Power-Coffee-ffffff?style=flat-square&labelColor=111111"/>
+<!-- LANGUAGES -->
 
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░  TECH STACK  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-### `> tech --list --verbose`
-
-<br/>
-
-<div align="center">
-
-<table border="0" align="center">
-<tr>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/><br/>
-  <sub><b>Python</b></sub>
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48"/><br/>
-  <sub><b>C++</b></sub>
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48"/><br/>
-  <sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48"/><br/>
-  <sub><b>HTML5</b></sub>
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48"/><br/>
-  <sub><b>CSS3</b></sub>
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48"/><br/>
-  <sub><b>MySQL</b></sub>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table border="0" align="center">
-<tr>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48"/><br/>
-  <sub><b>TensorFlow</b></sub>
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48"/><br/>
-  <sub><b>PyTorch</b></sub>
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" width="48"/><br/>
-  <sub><b>PyCharm</b></sub>
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48"/><br/>
-  <sub><b>VS Code</b></sub>
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/><br/>
-  <sub><b>Git</b></sub>
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/><br/>
-  <sub><b>GitHub</b></sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
----
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░  GITHUB STATS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-### `> git log --stats --all`
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naveen-kumawat&theme=github_dark" width="100%" alt="Profile Details"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naveen-kumawat&theme=github_dark" width="32%" alt="Repos Per Language"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naveen-kumawat&theme=github_dark" width="32%" alt="Most Commit Language"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naveen-kumawat&theme=github_dark" width="32%" alt="Stats"/>
+<img src="https://img.shields.io/badge/─────────────────────%20LANGUAGES%20─────────────────────-0d0221?style=for-the-badge&labelColor=0d0221&color=0d0221"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naveen-kumawat&theme=github_dark&utcOffset=5.5" width="48%" alt="Productive Time"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=naveen-kumawat&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=F8C843&ring=F8C843&fire=FFFFFF&currStreakLabel=F8C843&sideLabels=F8C843" width="48%" alt="Streak Stats"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&perline=5&theme=dark" />
+
+<br/><br/>
+
+<!-- AI / ML -->
+
+<img src="https://img.shields.io/badge/──────────────────────%20AI%20%2F%20ML%20──────────────────────-0d0221?style=for-the-badge&labelColor=0d0221&color=0d0221"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=5&theme=dark" />
+
+<br/><br/>
+
+<!-- TOOLS -->
+
+<img src="https://img.shields.io/badge/────────────────────────%20TOOLS%20────────────────────────-0d0221?style=for-the-badge&labelColor=0d0221&color=0d0221"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=mysql,pycharm,vscode,git,github&perline=5&theme=dark" />
 
 </div>
 
 <br/>
 
----
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED DIVIDER                           -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░  CONTRIBUTION GRAPH  ░░░░░░░░░░░░░░░░░░░░░ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                     GITHUB STATS SECTION                       -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=naveen-kumawat&bg_color=0d1117&color=F8C843&line=F8C843&point=ffffff&area_color=F8C843&area=true&hide_border=true&custom_title=Contribution+Graph" width="100%" alt="Contribution Graph"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=9999&color=7C6FCD&center=true&width=280&height=32&lines=GitHub+Analytics+_" alt="GitHub Stats"/>
+
+<br/><br/>
+
+<!-- STATS + LANGUAGES SIDE BY SIDE -->
+
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=naveen-kumawat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0221&title_color=7c6fcd&icon_color=7c6fcd&text_color=c9d1d9&ring_color=7c6fcd"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-kumawat&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=7c6fcd&text_color=c9d1d9"/>
+
+<br/><br/>
+
+<!-- STREAK STATS -->
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=naveen-kumawat&theme=tokyonight&hide_border=true&background=0d0221&stroke=7c6fcd&ring=7c6fcd&fire=ff6b9d&currStreakLabel=7c6fcd&sideLabels=7c6fcd&currStreakNum=ffffff&sideNums=ffffff&dates=555577"/>
 
 </div>
 
 <br/>
 
----
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED DIVIDER                           -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░  SNAKE ANIMATION  ░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                   CONTRIBUTION GRAPH                           -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naveen-kumawat&bg_color=0d0221&color=7c6fcd&line=7c6fcd&point=ff6b9d&area_color=7c6fcd&area=true&hide_border=true&custom_title=⚡+Contribution+Graph" width="97%"/>
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                    SNAKE ANIMATION                             -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naveen-kumawat/naveen-kumawat/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naveen-kumawat/naveen-kumawat/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/naveen-kumawat/naveen-kumawat/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/naveen-kumawat/naveen-kumawat/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
 
-> **🐍 Enable Snake:** Create `.github/workflows/snake.yml` → use [Platane/snk](https://github.com/Platane/snk) action
+> **🐍 Snake setup:** Add [Platane/snk](https://github.com/Platane/snk) workflow to `.github/workflows/snake.yml`
 
 <br/>
 
----
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED DIVIDER                           -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░  TROPHIES  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                    TROPHY SHOWCASE                             -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=naveen-kumawat&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%" alt="Trophies"/>
-
-</div>
-
-<br/>
-
----
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░  EXPERIENCE  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-### `> experience --format=timeline`
-
-<br/>
-
-```
-  ┌─────────────────────────────────────────────────────────────┐
-  │                                                             │
-  │   🔷  PROJECT LEAD                             [ Current ] │
-  │   ─────────────────────────────────────────────────────    │
-  │   → Spearheading AI-powered development initiatives         │
-  │   → Architecting scalable Python backend systems            │
-  │   → Bridging ML research with real-world engineering        │
-  │   → Driving team delivery with clean, documented code       │
-  │                                                             │
-  └─────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
----
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░  QUOTE + COFFEE  ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.%20Then%2C%20drink%20the%20coffee.&author=Naveen%20Kumawat" alt="Quote" width="80%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=9999&color=7C6FCD&center=true&width=230&height=32&lines=Achievements+_" alt="Achievements"/>
 
 <br/><br/>
 
-<img src="https://github.com/naveen-kumawat/Overview/blob/bf915a86efb8ee490a56fb78afcd5b784a5d7f48/coffe.gif" width="140" alt="Coffee"/>
+<img src="https://github-profile-trophy.vercel.app/?username=naveen-kumawat&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" width="100%"/>
 
 </div>
 
 <br/>
 
----
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED DIVIDER                           -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░  CONNECT  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-### `> ssh naveen@internet`
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/>
 
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                    EXPERIENCE TIMELINE                         -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<a href="https://www.linkedin.com/in/naveen-kumawat-287473189">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=9999&color=7C6FCD&center=true&width=240&height=32&lines=Experience+_" alt="Experience"/>
+
+</div>
+
+<br/>
+
+<table border="0" width="100%" align="center">
+<tr>
+<td>
+
+```
+ ╭──────────────────────────────────────────────────────────────╮
+ │                                                              │
+ │  💼  PROJECT LEAD                                            │
+ │      ────────────────────────────────────────────────────   │
+ │                                                              │
+ │      ▸ Leading AI-powered development teams                  │
+ │      ▸ Architecting scalable Python systems                  │
+ │      ▸ Integrating ML models into production                 │
+ │      ▸ Mentoring developers & reviewing code                 │
+ │                                                              │
+ ╰──────────────────────────────────────────────────────────────╯
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--               ANIMATED COFFEE + PHILOSOPHY                     -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<table border="0" align="center">
+<tr>
+<td align="center" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9318-bc1ea04edb2d.png" width="100" alt="Coffee"/>
+</td>
+<td align="left">
+
+> *"I start working only when my coffee does."* ☕
+>
+> *"First solve the problem, then write the code."*
+>
+> *"AI isn't replacing humans — it's replacing sleep."* 🤖
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED DIVIDER                           -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                      CONNECT SECTION                           -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=9999&color=7C6FCD&center=true&width=220&height=32&lines=Let%27s+Connect+_" alt="Connect"/>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/naveen-kumawat-287473189" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-7c6fcd?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="mailto:nk75kumawat@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-Email%20Me-ff6b9d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://github.com/naveen-kumawat">
-  <img src="https://img.shields.io/badge/GitHub-naveen--kumawat-F8C843?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-c9d1d9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0221"/>
 </a>
 
 <br/><br/>
 
-```
-  ┌───────────────────────────────────────┐
-  │  Open to collaborations on AI / ML    │
-  │  and Python projects. Ping me. ☕     │
-  └───────────────────────────────────────┘
-```
+<!-- ANIMATED HANDSHAKE / WAVE -->
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="48" alt="Wave"/>
+&nbsp;&nbsp;
+<b>Always open to collaborating on exciting AI / ML projects!</b>
+&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="48" alt="Wave"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
----
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░  FOOTER  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F8C843&height=100&section=footer" width="100%"/>
-
-<sub><code>// crafted by Naveen Kumawat · powered by ☕ + 🤖 · built in public</code></sub>
+<!-- ANIMATED FOOTER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:0a0a2e,100:7c6fcd&height=130&section=footer&text=Thanks%20for%20visiting!%20⭐%20Drop%20a%20star%20if%20you%20like%20my%20work&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
 
 </div>

@@ -1,98 +1,109 @@
-<!-- ===================== HERO SECTION ===================== -->
+<!-- ===================== FUTURISTIC HEADER ===================== -->
 
-<h1 align="center">🚀 Naveen Kumawat</h1>
+<div align="center">
 
-<h3 align="center">AI Enthusiast • Python Developer • Future Builder</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=200&section=header&text=NAVEEN%20KUMAWAT&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
+</div>
+
+---
+
+<!-- ===================== DYNAMIC INTRO ===================== -->
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Developer;Python+Engineer;Future+Tech+Builder;Clean+Code+Enthusiast" />
+</h2>
+
+---
+
+<!-- ===================== ABOUT ===================== -->
+
+## 🧠 About Me
+
+> Building intelligent systems with clean architecture and modern thinking.
+
+- 🚀 Focused on **Artificial Intelligence & Python Engineering**
+- 📊 Learning **Data Structures & Algorithms**
+- 🧩 Passionate about system design & automation
+- ☕ Coffee-powered development mode
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+## ⚡ Technology Arsenal
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Developer;Artificial+Intelligence+Learner;Data+Structures+%26+Algorithms;Building+Future+Tech" alt="Typing Animation" />
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,mysql,git,github,vscode,pycharm" />
+
 </p>
 
 ---
 
-<!-- ===================== ABOUT SECTION ===================== -->
+<!-- ===================== STATS SECTION ===================== -->
 
-## 👨‍💻 About Me
-
-<img align="right" width="260" src="https://github.com/naveen-kumawat/Overview/blob/39d09353dde9edfcd0a8536665e081e7079d8458/me.png">
-
-- 🔭 Working on **Python & Artificial Intelligence**
-- 🌱 Learning **Data Structures & Algorithms**
-- 🤖 Passionate about AI & Automation
-- ☕ Fun Fact: I start coding only after coffee!
-
----
-
-<!-- ===================== SKILLS SECTION ===================== -->
-
-## 🛠 Tech Stack
+## 📊 Performance Dashboard
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=naveen-kumawat&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-kumawat&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm)
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveen-kumawat&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
+<!-- ===================== ACTIVITY GRAPH ===================== -->
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveen-kumawat&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-kumawat&layout=compact&theme=tokyonight" height="180"/>
-</p>
+## 📈 Contribution Evolution
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveen-kumawat&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveen-kumawat&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 <!-- ===================== EXPERIENCE ===================== -->
 
-## 🏆 Experience
+## 🏆 Experience & Focus
 
-- 🚀 Project Lead
-- 🤝 Team Collaboration
-- 💡 Problem Solving
-- 🧠 AI Exploration
+- 🔹 Project Leadership
+- 🔹 AI Model Exploration
+- 🔹 Problem Solving Systems
+- 🔹 Team Collaboration
+- 🔹 Clean Code Architecture
 
 ---
 
-<!-- ===================== CONTACT ===================== -->
+<!-- ===================== CONNECT SECTION ===================== -->
 
-## 📬 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:nk75kumawat@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
-  </a>
 
-  <a href="https://www.linkedin.com/in/naveen-kumawat-287473189" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="mailto:nk75kumawat@gmail.com">
+  <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
 
-  <a href="https://github.com/naveen-kumawat">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
+<a href="https://www.linkedin.com/in/naveen-kumawat-287473189">
+  <img src="https://img.shields.io/badge/LinkedIn-6A00FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/naveen-kumawat">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
 
 <!-- ===================== FOOTER ===================== -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00F7FF&height=120&section=footer"/>
+
+</div>
